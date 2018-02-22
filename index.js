@@ -20,5 +20,8 @@ function iLoveTheBeatles(n) {
     o.push("I love the Beatles!");
     n++;
   } while (n<15);
+<<<<<<< HEAD
   return o;
+=======
+>>>>>>> e033d934e8aba312150908c160aae3d4d5242bc6
 }
